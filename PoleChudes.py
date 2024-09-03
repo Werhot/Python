@@ -7,7 +7,7 @@ user_chars = []
 
 while True:
     Is_win = True
-    print('\n У вас осталось: ' + str(attempts) + 'попыток')
+    print('\n У вас осталось: ' + str(attempts) + ' попыток')
     user_letter = str(input('Назовите букву: '))
     if user_letter not in user_chars:
         user_chars.append(user_letter)
@@ -26,3 +26,4 @@ while True:
         break
     if Is_win == True:
         print('\n Вы выйграли Ааааааавтомобиль!')
+        break
