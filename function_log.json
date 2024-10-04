@@ -1,0 +1,26 @@
+[
+    {
+        "function_name": "ex_func",
+        "arguments": {
+            "args": [
+                1,
+                7
+            ],
+            "kwargs": {}
+        },
+        "call_time": "2024-10-04T21:10:08.546298",
+        "level": "info"
+    },
+    {
+        "function_name": "ex_func",
+        "arguments": {
+            "args": [
+                9,
+                5
+            ],
+            "kwargs": {}
+        },
+        "call_time": "2024-10-04T21:10:08.546298",
+        "level": "info"
+    }
+]
