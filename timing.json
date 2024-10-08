@@ -1,0 +1,26 @@
+[
+    {
+        "function": "func",
+        "time": 3.0002224445343018,
+        "args": [
+            3
+        ],
+        "kwargs": {}
+    },
+    {
+        "function": "func",
+        "time": 2.000668525695801,
+        "args": [
+            2
+        ],
+        "kwargs": {}
+    },
+    {
+        "function": "func",
+        "time": 1.0000712871551514,
+        "args": [
+            1
+        ],
+        "kwargs": {}
+    }
+]
